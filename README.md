@@ -6,7 +6,7 @@ A **smart clinic management system** where patients can book appointments, docto
 
 ---
 
-### The Core Problem You're Solving
+### The Core Problem You're S olving
 
 | Old Way | Your App's Way |
 | --- | --- |
